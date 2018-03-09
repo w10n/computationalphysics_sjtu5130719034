@@ -1,8 +1,3 @@
----
-
-
----
-
 <h3 id="the-single-precision-floating-point-number-of">1.the single-precision floating-point number of</h3>
 <p>Answer:	<br>
 <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi><mo>=</mo><mn>1</mn><mi mathvariant="normal">.</mi><mn>6</mn><mn>2</mn><mn>5</mn><mo>×</mo><msup><mn>2</mn><mrow><mo>−</mo><mn>1</mn><mn>1</mn><mn>3</mn></mrow></msup></mrow><annotation encoding="application/x-tex">A = 1.625\times2^{-113}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.81em;"></span><span class="strut bottom" style="height: 0.89em; vertical-align: -0.08em;"></span><span class="base"><span class="mord mathit">A</span><span class="mrel">=</span><span class="mord mathrm">1</span><span class="mord mathrm">.</span><span class="mord mathrm">6</span><span class="mord mathrm">2</span><span class="mord mathrm">5</span><span class="mbin">×</span><span class="mord"><span class="mord mathrm">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.81em;"><span style="top: -3.06em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mathrm mtight">1</span><span class="mord mathrm mtight">1</span><span class="mord mathrm mtight">3</span></span></span></span></span></span></span></span></span></span></span></span></span></p>
