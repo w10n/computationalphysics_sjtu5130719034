@@ -1,0 +1,27 @@
+#include<stdio.h>
+#include<math.h>
+#include<iostream>
+
+int main(void)
+{
+    int i , n = 0;
+    double up = 1;
+    double dw = 1;
+    double max = pow(10,308);
+    double min = pow(10,-324);
+
+    while (up < max)
+    {
+        up = up*2;
+        i = i+1;
+    }
+    printf(" underflow = %g,\n %i\n",up,i);
+
+    while (dw > min)
+    {
+        dw = dw/2;
+        n  = n+1;
+    }
+    printf(" overflow = %g,\n %i",dw,n);
+    return 0 ;
+}
