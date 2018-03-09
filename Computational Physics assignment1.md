@@ -1,4 +1,30 @@
-<h3 id="the-single-precision-floating-point-number-of">1.the single-precision floating-point number of</h3>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Computational Physics assignment1</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li>
+<ul>
+<li></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h3 id="the-single-precision-floating-point-number-of">1.the single-precision floating-point number of</h3>
 <p>Answer:	<br>
 <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi><mo>=</mo><mn>1</mn><mi mathvariant="normal">.</mi><mn>6</mn><mn>2</mn><mn>5</mn><mo>×</mo><msup><mn>2</mn><mrow><mo>−</mo><mn>1</mn><mn>1</mn><mn>3</mn></mrow></msup></mrow><annotation encoding="application/x-tex">A = 1.625\times2^{-113}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.81em;"></span><span class="strut bottom" style="height: 0.89em; vertical-align: -0.08em;"></span><span class="base"><span class="mord mathit">A</span><span class="mrel">=</span><span class="mord mathrm">1</span><span class="mord mathrm">.</span><span class="mord mathrm">6</span><span class="mord mathrm">2</span><span class="mord mathrm">5</span><span class="mbin">×</span><span class="mord"><span class="mord mathrm">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.81em;"><span style="top: -3.06em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mathrm mtight">1</span><span class="mord mathrm mtight">1</span><span class="mord mathrm mtight">3</span></span></span></span></span></span></span></span></span></span></span></span></span></p>
 <h3 id="find-an-equivalent-formula-for-the-following-functions-to-avoid-a-loss-of-significance.">2.find an equivalent formula for the following functions to avoid a loss of significance.</h3>
@@ -65,3 +91,8 @@ d)<br>
 </table><h4 id="d">d)</h4>
 <p>the value of <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>π</mi></mrow><annotation encoding="application/x-tex">\pi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height: 0.43em;"></span><span class="strut bottom" style="height: 0.43em; vertical-align: 0em;"></span><span class="base"><span class="mord mathit" style="margin-right: 0.03em;">π</span></span></span></span></span> converges very slow and gets even slower when n gets larger, but the value is acceptable ,because the relative error is 3% when n is only 10, and with n get larger the number gets better.</p>
 
+    </div>
+  </div>
+</body>
+
+</html>
